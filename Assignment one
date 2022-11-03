@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment1</title>
+  <style>
+    body{
+      background-color: aqua;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h1,h2{
+      background-color: beige;
+      color: blue;
+      table-layout: auto;
+      border-radius: 1cm;
+      padding: 0.5cm;
+    }
+    p{
+      background-color:blueviolet;
+      border-radius: 1cm;
+      padding: 0.5cm;
+    }
+    ol,ul{
+      background-color: azure;
+      border-radius: 0.5cm;
+      padding: 7mm;
+    }
+    hr{
+      padding: 1mm;
+      border-radius: 2mm;
+    }
+    a{
+      padding: 1cm;
+    }
+  </style>
+</head>
+<body>
+  <h1>Introduction:</h1>
+  <hr>
+  <p>In this part we are going to learn about the different porvinces of Nepal:</p>
+  <ol>
+    <th>Provinces names:</th>
+    <li>Province No. 1</li>
+    <li>Madhesh Province</li>
+    <li>Bagmati Province</li>
+    <li>Gandaki Province</li>
+    <li>Karnali Province</li>
+    <li>Sudurpashchim Province</li>
+  </ol>
+  <p>As you can see there are only 6 provinces in Nepal. If you want to learn more about Nepal. Then i have provided a link.</p>
+  <a href="https://en.wikipedia.org/wiki/Nepal">Click me myself Nepal😊❤️</a>
+  <h2>Religions:</h2>
+  <ul>
+    <th>Religions by Percentage:</th>
+    <li>81.3% Hinduism</li>
+    <li>9.0% Buddhism</li>
+    <li> 4.4% Islam</li>
+    <li>3.1% Kirant</li>
+    <li>1.4% Christianity</li>
+    <li>0.5% Prakriti</li>
+    <li>0.3% Others</li>
+  </ul>
+</body>
+</html>
